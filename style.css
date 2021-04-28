@@ -9,7 +9,7 @@
     --bright-color: #eeeeee;
     --dark-main-color: #00adb5;
     --bright-main-color: #aad8d3;
-    --accent-color: #18587a;
+    --accent-color: #585767/*#18587a*/;
 }
 
 /* Native tags
@@ -181,6 +181,7 @@ a{
 /* info */
 
 #showcase-container > img{
-    width: 100%;
+    max-width: 80%;
     align-self: end;
+    justify-self: end;
 }
